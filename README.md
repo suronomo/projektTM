@@ -13,11 +13,17 @@ Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 # Specyfikacja ATMEL ATmega328P:
 *Zasilanie: 1,8 V - 5,5 V 
 
-*Taktowanie: do 20 MHz
+* Taktowanie: do 20 MHz
 
-*Pamięć Flash: 32 KB
-*23 linie wyjścia/wejścia
-*Dwa 8-bitowe liczniki 
-*Jeden 16-bitowy licznik
-*6 kanałów PWM
-*6 kanałów 10-bitowego przetwornika analogowo-cyfrowego
+* Pamięć Flash: 32 KB
+
+* 23 linie wyjścia/wejścia
+
+* Dwa 8-bitowe liczniki 
+
+* Jeden 16-bitowy licznik
+
+* 6 kanałów PWM
+
+* 6 kanałów 10-bitowego przetwornika analogowo-cyfrowego
+
