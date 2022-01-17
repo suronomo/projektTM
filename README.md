@@ -43,7 +43,7 @@ Mikroprzełączniki typu TACT lutowane powierzchniowo.
 - Urządzenie Output: Wyświetlacz 2x16 znaków LED
 
 ![](https://github.com/suronomo/projektTM/blob/888ff3fb22433c93b6e70e420a299d2a80d48841/fotografie/Screen.PNG)
-# Specyfikacja wyświetlacza:
+- Specyfikacja wyświetlacza:
 * Wyświetlacz LCD 2x16 znaków
 
 * Sterownik zgodny z HD44780
