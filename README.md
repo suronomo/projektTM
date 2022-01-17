@@ -14,7 +14,24 @@ Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 
 # *Urządzenia I/O*
 - Urządzenie Input:
-- Urządzenie Output: Wyświetlacz
+
+
+- Urządzenie Output: Wyświetlacz 2x16 znaków LED
+![](https://github.com/suronomo/projektTM/blob/888ff3fb22433c93b6e70e420a299d2a80d48841/fotografie/Screen.PNG)
+# Specyfikacja wyświetlacza:
+* Wyświetlacz LCD 2x16 znaków
+
+* Sterownik zgodny z HD44780
+
+* Niebieski negatyw
+
+* Podświetlanie białe diody LED, białe znaki
+
+* Rozmiar modułu: 80 x 36 x 12 mm
+ 
+* Wymiary znaku: 2,45 x 5,00 mm  
+
+* Zakres temperatur pracy: od -20 do +70°C
 
 # Pinout:
 ![](https://github.com/suronomo/projektTM/blob/46760b7d7dbde397f36da126a4406366f73b8289/fotografie/Pinout.png)
