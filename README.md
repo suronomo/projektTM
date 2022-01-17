@@ -38,7 +38,7 @@ Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 
 
 
-# Kod
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <avr/HD44780.h>
