@@ -1,7 +1,7 @@
 # Projekt - Sterownik do dwóch taśm LED z wyświetlaczem.
 
 ## Zadanie projektu:
-W swojej prostocie ma odpowiadać za sterowanie taśmami ledowymi.
+Założeniem projektu jest wykonanie sterownika do kontroli taśm ledowych.
 
 ## Budowa projektu:
 # Mikrokontroler ATMEL ATmega328P:
