@@ -32,3 +32,7 @@ Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 
 * 6 kanałów 10-bitowego przetwornika analogowo-cyfrowego
 
+
+
+
+# Kod
