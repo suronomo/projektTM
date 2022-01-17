@@ -4,20 +4,9 @@
 W swojej prostocie ma odpowiadać za sterowanie taśmami ledowymi.
 
 ## Budowa projektu:
-# Mikrokontroler
+# Mikrokontroler ATMEL ATmega328P:
 ![](https://github.com/suronomo/projektTM/blob/6d0f4b5464e575dd86a42b8a53a452ddc73a3d90/fotografie/Mikrokontroler.PNG)
-Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 
-# Eagle board:
-![](https://github.com/suronomo/projektTM/blob/0488b0967d13b00cf496a41c1891c0bef8c12b6d/fotografie/Board.PNG)
-
-
-# *Urządzenia I/O*
-- Urządzenie Input:
-- Urządzenie Output: Wyświetlacz
-
-# Pinout:
-![](https://github.com/suronomo/projektTM/blob/46760b7d7dbde397f36da126a4406366f73b8289/fotografie/Pinout.png)
 # Specyfikacja ATMEL ATmega328P:
 * Zasilanie: 1,8 V - 5,5 V 
 
@@ -36,6 +25,34 @@ Zastosowany tutaj został mikroprocesor ATMEL ATmega328P.
 * 6 kanałów 10-bitowego przetwornika analogowo-cyfrowego
 
 
+# Eagle board:
+![](https://github.com/suronomo/projektTM/blob/0488b0967d13b00cf496a41c1891c0bef8c12b6d/fotografie/Board.PNG)
+
+
+# *Urządzenia I/O*
+- Urządzenie Input:
+
+
+- Urządzenie Output: Wyświetlacz 2x16 znaków LED
+
+![](https://github.com/suronomo/projektTM/blob/888ff3fb22433c93b6e70e420a299d2a80d48841/fotografie/Screen.PNG)
+# Specyfikacja wyświetlacza:
+* Wyświetlacz LCD 2x16 znaków
+
+* Sterownik zgodny z HD44780
+
+* Niebieski negatyw
+
+* Podświetlanie białe diody LED, białe znaki
+
+* Rozmiar modułu: 80 x 36 x 12 mm
+ 
+* Wymiary znaku: 2,45 x 5,00 mm  
+
+* Zakres temperatur pracy: od -20 do +70°C
+
+# Pinout ATMEL ATmega328P:
+![](https://github.com/suronomo/projektTM/blob/46760b7d7dbde397f36da126a4406366f73b8289/fotografie/Pinout.png)
 
 # Kod
 ```
