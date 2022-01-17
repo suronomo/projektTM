@@ -4,4 +4,5 @@
 W swojej prostocie ma odpowiadać za sterowanie taśmami ledowymi.
 
 ## Budowa projektu:
-
+# Mikrokontroler
+projektTM/fotografie/Mikrokontroler.png
