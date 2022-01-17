@@ -5,4 +5,4 @@ W swojej prostocie ma odpowiadać za sterowanie taśmami ledowymi.
 
 ## Budowa projektu:
 # Mikrokontroler
-/.../fotografie/Mikrokontroler.PNG
+![](https://github.com/suronomo/projektTM/fotografie/Mikrokontroler.png)
