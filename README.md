@@ -30,7 +30,14 @@ W swojej prostocie ma odpowiadać za sterowanie taśmami ledowymi.
 
 
 # *Urządzenia I/O*
-- Urządzenie Input:
+- Urządzenie Input: 
+Mikroprzełączniki typu TACT lutowane powierzchniowo.
+
+![](https://github.com/suronomo/projektTM/blob/3cc199fcfc6601c19956ea6b900de285284bb0e5/fotografie/Button.PNG)
+
+- Może to być mikroprzełącznik, zwroka, czujka PIR - ma za zadanie uruchomić układ.
+
+![](https://github.com/suronomo/projektTM/blob/3cc199fcfc6601c19956ea6b900de285284bb0e5/fotografie/Stave.PNG)
 
 
 - Urządzenie Output: Wyświetlacz 2x16 znaków LED
